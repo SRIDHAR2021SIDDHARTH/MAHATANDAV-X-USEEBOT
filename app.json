@@ -39,7 +39,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link for alive pic.",
-      "value": "https://telegra.ph/file/28f018281e7460d88ebe3.jpg", 
+      "value": "https://telegra.ph/file/9cc7aff6feb31da433493.jpg", 
       "required": true
     },
     "BIO_MSG": {
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/28f018281e7460d88ebe3.jpg",
+      "value": "https://telegra.ph/file/9cc7aff6feb31da433493.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
